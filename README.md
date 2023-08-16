@@ -3,7 +3,9 @@
 Heart disease is a significant global health concern, and early detection plays a crucial role in improving patient outcomes. In this project, our aim is to develop an accurate prediction model for heart disease using advanced data science and machine learning techniques.
 
 # Project Overview
-1)Exploratory Data Analysis (EDA): We began by conducting Exploratory Data Analysis (EDA) on the dataset. This involved a thorough examination of the data's characteristics, distributions, and relationships between variables. EDA provided valuable insights into the dataset's structure and potential patterns, helping us make informed decisions in subsequent steps.
+1)Exploratory Data Analysis (EDA):
+
+We began by conducting Exploratory Data Analysis (EDA) on the dataset. This involved a thorough examination of the data's characteristics, distributions, and relationships between variables. EDA provided valuable insights into the dataset's structure and potential patterns, helping us make informed decisions in subsequent steps.
 
 2)Data Preprocessing:
 
